@@ -59,22 +59,39 @@ Streamlit
 🔄 Project Workflow
 
 Raw EV Dataset
+
       ↓
+      
 Data Integration (Merge CSV files)
+
       ↓
+      
 Data Quality Check
+
       ↓
+      
 KNN Imputation
+
       ↓
+      
 Outlier Detection (Isolation Forest)
+
       ↓
+      
 Feature Scaling
+
       ↓
+      
 Machine Learning Model
+
       ↓
+      
 Battery SOH Prediction
+
       ↓
+      
 Model Deployment (Streamlit)
+
 
 📈 Model Performance
 
