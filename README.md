@@ -126,8 +126,11 @@ Deploy as mobile/web application
 👩‍💻 Author
 
 Asiyamath Azeema
+
 Artificial Intelligence & Data Science Engineer
+
 4BP22AD008
+
 BEARYS INSTITUTE OF TECHNOLOGY
 
 ⭐ Acknowledgment
